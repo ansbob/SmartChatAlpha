@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:top="-2dp"
+        android:left="-2dp"
+        android:right="-2dp"
+        android:bottom="2dp">
+        <selector>
+            <item android:state_enabled="true"
+                android:state_focused="true">
+                <shape
+                    android:shape="rectangle">
+                    <stroke
+                        android:width="1.71dp"
+                        android:color="#A4AAB1"/>
+                </shape>
+            </item>
+            <item android:state_enabled="false">
+                <shape
+                    android:shape="rectangle">
+                    <stroke
+                        android:width="1.71dp"
+                        android:color="#C2BBBB"/>
+                </shape>
+            </item>
+        </selector>
+    </item>
+</layer-list>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="sky">#1e83d4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#ADDADADA</color>
+    <color name="smartchat">#1e83d4</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#FF0000</color>
+    <color name="lightBlue">#1e83d4</color>
+    <color name="wall">#2DFFFFFF</color>
+    <color name="colorText">#575252</color>
+    <color name="colorBlack2">#424242</color>
+
+    <!--Код Жасмин -->
+    <color name="Skyy">#1e83d4</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+</resources>

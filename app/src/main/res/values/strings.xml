@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Smartchat</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_exit">Выход</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="join">Join</string>
+    <string name="user_avatar">User avatar</string>
+    <string name="profile">Профиль</string>
+    <string name="tarifs">Тарифы</string>
+    <string name="chat">Чат</string>
+    <string name="tests">Тесты</string>
+    <string name="tasks">Задания</string>
+    <string name="faq">FAQ</string>
+    <string name="settings">Настройки</string>
+    <string name="schedule">Расписание</string>
+    <string name="help">Помощь</string>
+    <string name="exit">Выход</string>
+    <string name="sign_up_for_classes">Записаться на занятия</string>
+    <string name="name">Имя</string>
+    <string name="trial_lesson">Пробное занятие</string>
+    <string name="one_free_lesson_with_teacher">Один бесплатный урок с преподавателем.</string>
+
+    <!--Код Жасмин-->
+    <string name="ti">Дата следующего занятия: 18:00 21.02.2019</string>
+    <string name="teacher">Преподаватель: Smartchat Teacher</string>
+    <string name="beginner">Beginner</string>
+    <string name="learn_process">Учебный процесс</string>
+    <string name="sms">SMS - уведомления</string>
+    <string name="cost">1000 тг</string>
+    <string name="curr">7000тг</string>
+    <string name="cost2">9000 тг</string>
+    <string name="curr2">7000тг</string>
+    <string name="twentyH">12 часов</string>
+    <string name="individual">Индивидуальный</string>
+    <string name="program">12 занятий в месяц в обговоренное время. Обучение проходит 12  раз в месяц, в обговоренное с учеником время по общей программе.</string>
+    <string name="smth">Вы записаны</string>
+    <string name="sms_notification">SMS - уведомления</string>
+
+    <string name="enter">Вход</string>
+    <string name="useSocial">Используйте данные с других сервисов, чтобы войти быстрее:</string>
+    <string name="choose">Выберите страну:</string>
+    <string name="phoneN">Номер телефона:</string>
+    <string name="enterPassword">Введите пароль</string>
+    <string name="require">*Required</string>
+    <string name="forgotpass">Забыли пароль?</string>
+    <string name="enter2">Войти</string>
+    <string name="registration">Регистрация</string>
+    <string name="fio">Имя и фамилия:</string>
+    <string name="passreturn">Повторите пароль:</string>
+    <string name="send">Отправить</string>
+    <string name="entercode">Введите код, который пришел на ваш номер</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notRegistered">Данный номер не зарегистрирован!</string>
+    <string name="fill_in">Заполните все поля</string>
+    <string name="enter_code">Введите код</string>
+    <string name="repeat_pass">Повторите пароль</string>
+    <string name="restore">Восстановить</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="resend">Отправить код повторно</string>
+    <string name="title_activity_registrarion">Registrarion</string>
+    <string name="activation">Активация</string>
+    <string name="account_restore">Восстановление аккаунта</string>
+    <string name="choiceCountry">Выберите страну</string>
+    <string name="kazakhstan">Kazakhstan</string>
+</resources>
